@@ -1,1 +1,6 @@
-
+{
+  "version": "2.16",
+  "date": "2026-10-22",
+  "changelog": "Added Update Checker, Fixed New Case Dialog background issue, Added About, Open Folder, and Exit buttons.",
+  "download_url": "https://github.com/swelgem-ctrl/FilBel/releases/latest"
+}

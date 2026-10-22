@@ -1,6 +1,6 @@
 {
-  "version": "2.16",
+  "version": "2.30",
   "date": "2026-10-22",
-  "changelog": "Added Update Checker, Fixed New Case Dialog background issue, Added About, Open Folder, and Exit buttons.",
+  "changelog": "DRY Refactoring: Consolidated INI logic using Map Arrays and pre-cached coordinates. Enhanced SendMode to Input. Implemented completely silent file lock handling.",
   "download_url": "https://github.com/swelgem-ctrl/FilBel/releases/latest"
 }

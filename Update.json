@@ -1,6 +1,6 @@
 {
-  "version": "2.30",
-  "date": "2026-10-22",
-  "changelog": "DRY Refactoring: Consolidated INI logic using Map Arrays and pre-cached coordinates. Enhanced SendMode to Input. Implemented completely silent file lock handling.",
+  "version": "2.57",
+  "date": "2026-10-25",
+  "changelog": "Critical Scope Fix: Promoted all nested Window Spy variables to strict Global scope at the script level, permanently resolving compiler errors during window closure. The system is now 100% stable with the fully integrated Quick-Access Bottom Bar and Recent Tasks Logging features.",
   "download_url": "https://github.com/swelgem-ctrl/FilBel/releases/latest"
 }
